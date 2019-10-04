@@ -1,0 +1,7 @@
+pyowm
+pyttsx3
+smtplib
+wikipedia
+wolframalpha
+playsound
+speechrecognition
